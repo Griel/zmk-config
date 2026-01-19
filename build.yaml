@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrfmicro/nrf52840
+  - board: nrfmicro_11
     shield: corne_left SSD1306
-  - board: nrfmicro/nrf52840
+  - board: nrfmicro_11
     shield: corne_right SSD1306
