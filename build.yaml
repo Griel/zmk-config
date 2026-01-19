@@ -20,6 +20,6 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: corne_left SSD1306
+    shield: corne_left 
   - board: nrfmicro_11
-    shield: corne_right SSD1306
+    shield: corne_right 
